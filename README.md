@@ -1,13 +1,27 @@
 # STARVERSE
-Projeto feito com Django — permite fazer upload de imagens na galeria via área administrativa.
 
-# Pré-requisitos
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-4.x-green)](https://www.djangoproject.com/)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
-Python 3.10 ou 3.11 instalado.
+Projeto desenvolvido com **Django** para gerenciamento de imagens em uma galeria, com área administrativa protegida e suporte para upload de arquivos.
 
-pip disponível no PATH.
+## 🚀 Tecnologias utilizadas
+- **Python 3.10+**
+- **Django 4.x**
+- HTML5 / CSS3
+- SQLite3 (banco de dados padrão do Django)
 
-Visual Studio Code (opcional, mas recomendado).
+---
+
+## 📦 Pré-requisitos
+
+Antes de começar, tenha instalado:
+- [Python 3.10 ou 3.11](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/)
+- [Visual Studio Code](https://code.visualstudio.com/) (opcional, mas recomendado)
+
+---
 
 # Instalação — passo a passo
 
