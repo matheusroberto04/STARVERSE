@@ -12,7 +12,7 @@ Projeto desenvolvido com **Django** para gerenciamento de imagens em uma galeria
 - HTML5 / CSS3
 - SQLite3 (banco de dados padrão do Django)
 
----
+----
 
 ## 📦 Pré-requisitos
 
