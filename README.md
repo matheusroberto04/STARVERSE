@@ -70,7 +70,7 @@ Abra o VS Code e pressione Ctrl + Shift + P → Python: Select Interpreter → e
 
 O site ficará disponível em http://127.0.0.1:8000/.
 
-##🔑 Criando um usuário administrador (para inserir imagens na galeria):
+## 🔑 Criando um usuário administrador (para inserir imagens na galeria):
 
 Para acessar a área administrativa e fazer upload de imagens, crie um superusuário:
 
