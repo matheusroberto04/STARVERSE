@@ -86,9 +86,6 @@ Acesse o admin em:
 Use as credenciais criadas para acessar.
 💡 Com o mesmo login, também é possível entrar no site 
 
-## 📜 Licença
-Este projeto está licenciado sob a licença MIT — veja o arquivo LICENSE para detalhes.
-
 ## Agradecimentos / Observação final
 Obrigado por testar o projeto — espero que goste do site! Foi um projeto muito bem feito.
 Se quiser, eu deixo esse README mais personalizado (adicione badges, instruções de deploy, variáveis de ambiente, etc).
