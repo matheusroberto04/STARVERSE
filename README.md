@@ -76,13 +76,19 @@ Para acessar a área administrativa e fazer upload de imagens, crie um superusu�
 
 `python manage.py createsuperuser`
 
-Siga os prompts e informe username, email e password.
-Se aparecer uma mensagem informando que a senha é fraca, confirme digitando Y (aceitar o bypass) — ou escolha uma senha mais forte.
+Preencha username, email e password.
+Se a senha for considerada fraca, digite Y para confirmar (apenas em ambiente de desenvolvimento).
 
 Acesse o admin em:
 
 `http://127.0.0.1:8000/admin`
 
-# Agradecimentos / Observação final
+Use as credenciais criadas para acessar.
+💡 Com o mesmo login, também é possível entrar no site 
+
+## 📜 Licença
+Este projeto está licenciado sob a licença MIT — veja o arquivo LICENSE para detalhes.
+
+## Agradecimentos / Observação final
 Obrigado por testar o projeto — espero que goste do site! Foi um projeto muito bem feito.
 Se quiser, eu deixo esse README mais personalizado (adicione badges, instruções de deploy, variáveis de ambiente, etc).
