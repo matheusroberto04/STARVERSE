@@ -33,7 +33,7 @@ body {
     line-height: 1;
     font-family: 'Space Grotesk', sans-serif;
     min-height: 100vh;
-    background: linear-gradient(#000000,#000000,#000000);
+    background: linear-gradient(#2b2b2b,#1f1f1f,#2b2b2b);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -394,4 +394,3 @@ table {
     border: 2px solid #7B78E5;
     cursor: pointer;
 }
-
