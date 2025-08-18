@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.x-green)](https://www.djangoproject.com/)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-Enabled-orange)](https://aws.amazon.com/s3/)
 
 Projeto desenvolvido com **Django** para gerenciamento de imagens em uma galeria, com área administrativa protegida e suporte para upload de arquivos.
 
@@ -11,7 +12,7 @@ Projeto desenvolvido com **Django** para gerenciamento de imagens em uma galeria
 - **Django 4.x**
 - HTML5 / CSS3
 - SQLite3 (banco de dados padrão do Django)
-
+- AWS - S3
 ----
 
 ## 📦 Pré-requisitos
