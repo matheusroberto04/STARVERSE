@@ -69,7 +69,24 @@ Abra o VS Code e pressione Ctrl + Shift + P → Python: Select Interpreter → e
 
 `python manage.py runserver`
 
-O site ficará disponível em http://127.0.0.1:8000/.
+Para que a estilização funcione, agora será necessário criar e configurar um arquivo `.env` onde estará as seguintes informações:
+
+SECRET_KEY = Gerada através do arquivo `secret_key_generator.py` que para gera-lá é necessário seguir os seguintes passos:
+
+1 - Inicie a sua venv
+
+2 - Acesse a pasta scripts com o comando `cd scripts`
+
+3 - Rode o comando `python secret_key_generator.py` e pronto sua chave será gerada!
+
+AWS_ACCESS_KEY_ID = Sua chave de acesso do AWS
+
+
+AWS_SECRET_ACCESS_KEY = Sua secret_key da AWS ( essa só é gerada uma vez)
+
+
+AWS_STORAGE_BUCKET_NAME =  Nome do seu bucket!
+
 
 ## 🔑 Criando um usuário administrador (para inserir imagens na galeria):
 
