@@ -79,6 +79,7 @@ SECRET_KEY = Gerada através do arquivo `secret_key_generator.py` que para gera-
 
 3 - Rode o comando `python secret_key_generator.py` e pronto sua chave será gerada!
 
+```
 AWS_ACCESS_KEY_ID = Sua chave de acesso do AWS
 
 
@@ -86,6 +87,7 @@ AWS_SECRET_ACCESS_KEY = Sua secret_key da AWS ( essa só é gerada uma vez)
 
 
 AWS_STORAGE_BUCKET_NAME =  Nome do seu bucket!
+```
 
 Para isso você deve criar uma conta na AWS criar um usuário IAM com a politica de permissão `AmazonS3FullAccess` pegar a SECRET_KEY e a ACCESS_KEY e inserir no local correto! 
 Assim você poderá adicionar as imagens que quiser!
